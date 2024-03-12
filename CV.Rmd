@@ -1,0 +1,113 @@
+---
+title: "Curriculum vitae"
+author: Tamsir Ndong
+date: "12 mars 2024"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+
+
+Contact  {778662564}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> tamsirndong03@gmail.com
+- <i class="fa fa-github"></i> [github.com/tamsir](https://github.com/tamsir)
+- <i class="fa fa-phone"></i> +1 000-000-0000
+- Pour plus d'information, vous pouvez me contacter via ce mail.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+Capacité d’analyse descriptive des données 
+
+Maitrise de Excel et VBA (8/10)
+
+Maitrise de Stata (6/10)
+
+Maitrise du logiciel R (6 /10)
+
+Maitrise des outils mathématiques et probabilistes 
+
+Permis de conduire 
+
+Maitrise des outils de QSIG
+
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+TAMSIR NDONG {#title}
+--------------------------------------------------------------------------------
+
+### Présentation
+Prenom et nom: Tamsir Ndong
+
+Date et lieu : Le 09 Novembre 2003 à Pikine
+
+Statut: Etudiant en ISEP 2
+
+Ecole: Ecole Nationale de la Statistique 
+      et de l'analyse économique
+--------------------------------------------------------------------------------
+
+### Parcours académique
+
+Tamsir Ndong a étudié du CI au CM1 à Pikine , à l’école Notre Dame du Cap-Vert  et  a ensuite poursuivi son cycle primaire à Rufisque , à l’école Saint-Joseph de Rufisque où il a eu son diplôme de CFEE. Le jeune élève statisticien économique, dans la perspective de faire ses études secondaires , est passé au Lycée de Kounoune où il quitte après la classe de 5éme pour rejoindre à nouveau le Collège Saint-Joseph de Rufisque. En Juillet 2019 , Tamsir a bouclé ses études moyen-secondaires avec l’obtention du diplôme de BFEM . Dans l’optique de poursuivre son rêve de devenir un brillant Scientifique de par sa passion envers les mathématiques , il se présente au cours d’entrée au Lycée Scientifique d’Excellence de Diourbel. Son admission à ce concours le mène davantage vers le chemin de l’Excellence , raison pour laquelle il finira son séjour à Diourbel en Juillet 2022 avec l’obtention de son diplôme de Baccalauréat Série S1 avec la mention TRES-BIEN . A la même année il a réussi au concours d’entrée à l’ENSAE là où il évolue actuellement.
+
+### Atouts
+
+Tamsir est un jeune très dynamique , avec une certaine  capacité de travailler en groupe ou en équipe afin de mettre à la disposition de vos équipes toutes ses connaissances théoriques. 
+
+
+--------------------------------------------------------------------------------
+
+### Postes occupés au sein de diverses associations :
+
+Actuel sécrétaire chargé aux affaires pédagogiques de l’AMSEN (Amicale Des Sénégalais de l’ENSAE)
+
+Actuel Sécrétaire Général de l’AES (Amicale des élèves et Stagiaires de l’ENSAE)
+
+Ancien président du club science du lycée Scientifique d'excellence de Diourbel
+
+
+### Concours et examens réussis :
+
+_ 2e prix de mathématiques au concours Petit Génie (2022)
+
+_ Admission aux concours ESP (Ecole supérieure Polytechnique) et EPT (Ecole Polytechnique de Thiés) (2022)
+
+_ Admission au concours ENSAE (2022)
+
+_ Admission aux classes préparatoires de France (Henry Poincaré) et au Sénégal
+
+
+
+### DIVERS :
+
+_ Tamsir aime pratiquer du sport en particulier le Football
+
+_ il a une passion pour les maths et la statistique
+
+_ Tamsir s’intéresse beaucoup aux questions relatives à la finance , banque , assurance
+
+--------------------------------------------------------------------------------
+
+
+
